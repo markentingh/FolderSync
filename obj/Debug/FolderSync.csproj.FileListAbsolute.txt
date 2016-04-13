@@ -1,9 +1,0 @@
-c:\Projects\FolderSync\bin\Debug\FolderSync.exe.config
-c:\Projects\FolderSync\bin\Debug\FolderSync.exe
-c:\Projects\FolderSync\bin\Debug\FolderSync.pdb
-c:\Projects\FolderSync\obj\Debug\FolderSync.csprojResolveAssemblyReference.cache
-c:\Projects\FolderSync\obj\Debug\FolderSync.Form1.resources
-c:\Projects\FolderSync\obj\Debug\FolderSync.Properties.Resources.resources
-c:\Projects\FolderSync\obj\Debug\FolderSync.csproj.GenerateResource.Cache
-c:\Projects\FolderSync\obj\Debug\FolderSync.exe
-c:\Projects\FolderSync\obj\Debug\FolderSync.pdb
