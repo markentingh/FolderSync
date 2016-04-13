@@ -5,5 +5,8 @@ A simple C# desktop application designed to help you quickly sync any two folder
 * select individual sub-folders to sync
 * live progress bar & info while syncing
 
+### Preresiquites
+* Tested with Windows 7 64-bit 
+
 
 This was a one-day project, written on April 10th, 2016.
