@@ -8,5 +8,7 @@ A simple C# desktop application designed to help you quickly sync any two folder
 ### Preresiquites
 * Tested with Windows 7 64-bit 
 
+###To Do:
+* match changed files within existing folders
 
 This was a one-day project, written on April 10th, 2016.
